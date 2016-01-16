@@ -15,7 +15,7 @@ After this close and reopen inkscape. You will see a menu named Hyphenate in Eff
 	English, Hindi, Malayalam, Tamil, Telugu, Oriya, Bengali, Panjabi, Gujarati, Marathi, Kannada, Assamese
 
 5. What is the license of this extension?
-	This extension is licensed under GNU GPL version 3 or later version.
+	This extension is licensed under MIT license.
 
 6. What is hyphenation and where can I get more information about that?
 	* http://thottingal.in/blog/2008/12/16/hyphenation-of-indian-languages-in-webpages/
